@@ -1,0 +1,11 @@
+name,email
+Arun Kumar,arun.kumar@example.com
+Priya Sharma,priya.sharma@example.com
+,missing.name@example.com
+Rahul Singh,
+Ananya Patel,not-an-email
+Vikram Raj,vikram.raj@example.com
+Duplicate User,vikram.raj@example.com
+Case Test,Bob@Example.com
+Case Test 2,bob@example.com
+Alice
