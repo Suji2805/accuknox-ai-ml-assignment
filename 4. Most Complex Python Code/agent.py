@@ -51,8 +51,8 @@ app = Flask(__name__)
 # ══════════════════════════════════════════════════════════
 #   CONFIGURATION
 # ══════════════════════════════════════════════════════════
-TELEGRAM_BOT_TOKEN = "8403644829:AAFLt4BVV7AmAjRgJXS3_hcHJpVpC9WN9oc"
-TELEGRAM_CHAT_ID   = "5784033458"
+TELEGRAM_BOT_TOKEN = "your_actual_token"
+TELEGRAM_CHAT_ID = "your_actual_chat_id"
 TELEGRAM_ENABLED   = True
 ALERT_COOLDOWN_SEC = 30
 LOG_FILE           = "energy_log.csv"
